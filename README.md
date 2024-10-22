@@ -1,4 +1,4 @@
-# runeq-python
+# runeq-airdrop
 
 ![PyPI - License](https://img.shields.io/pypi/l/runeq)
 ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/runeq)
